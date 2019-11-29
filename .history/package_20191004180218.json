@@ -1,0 +1,28 @@
+{
+  "name": "purejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "temp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^2.0.8",
+    "lodash": "^4.17.11",
+    "mdb": "^0.1.0",
+    "moment": "^2.22.2",
+    "moment-timezone": "^0.5.23",
+    "node-fetch": "^2.6.0",
+    "ssh2": "^0.6.1",
+    "ssh2-sftp-client": "^3.1.0",
+    "whatwg-fetch": "^3.0.0"
+  },
+  "devDependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "http-proxy": "^1.17.0",
+    "querystring": "^0.2.0"
+  }
+}
